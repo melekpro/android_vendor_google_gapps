@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
 
 # /priv-app
 PRODUCT_PACKAGES += \
+    AndroidPlatformServices \
     GoogleBackupTransport \
     GooglePartnerSetup \
     GoogleServicesFramework \
